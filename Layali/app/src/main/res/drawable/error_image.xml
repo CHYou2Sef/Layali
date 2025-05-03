@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24"
+    android:tint="?attr/colorError">
+
+    <!-- Background -->
+    <path
+        android:fillColor="?attr/colorSurfaceContainerHigh"
+        android:pathData="M4,4H20V20H4V4"
+        android:fillAlpha="0.4"/>
+
+    <!-- Broken Image Outline -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="?attr/colorOnSurfaceVariant"
+        android:strokeWidth="1"
+        android:pathData="M19,5L5,19M5,5L19,19"
+        android:strokeLineCap="round"/>
+
+    <!-- Image Frame -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="?attr/colorOnSurfaceVariant"
+        android:strokeWidth="1"
+        android:pathData="M9,9H15V15H9V9Z"/>
+
+    <!-- Error Symbol -->
+    <path
+        android:fillColor="?attr/colorError"
+        android:pathData="M12,2C6.48,2 2,6.48 2,12s4.48,10 10,10 10,-4.48 10,-10S17.52,2 12,2zM13,17h-2v-2h2v2zM13,13h-2V7h2v6z"/>
+</vector>

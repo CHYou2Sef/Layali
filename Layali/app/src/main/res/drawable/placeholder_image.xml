@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24"
+    android:tint="?attr/colorOnSurfaceVariant">
+
+    <!-- Background Layer -->
+    <path
+        android:fillColor="?attr/colorSurfaceContainer"
+        android:pathData="M4,4H20V20H4V4"
+        android:fillAlpha="0.3"/>
+
+    <!-- Camera Body -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="?attr/colorOnSurfaceVariant"
+        android:strokeWidth="1"
+        android:pathData="M8,7H16V6H8V7ZM18,9H6V18H18V9ZM17,3H7V5H17V3Z"/>
+
+    <!-- Lens -->
+    <path
+        android:fillColor="?attr/colorOnSurfaceVariant"
+        android:pathData="M12,15.5A3.5,3.5 0,1 0,8.5 12,3.5 3.5,0 0,0 12,15.5Z"/>
+
+    <!-- Flash Symbol -->
+    <path
+        android:fillColor="?attr/colorOnSurfaceVariant"
+        android:pathData="M14,5V4H10V5H14Z"/>
+
+</vector>

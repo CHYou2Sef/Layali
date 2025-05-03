@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Layali</string>
+    <string name="search_shows">Search Shows</string>
+    <string name="welcome_message">Welcome to Layali</string>
+    <string name="voirPlus" >voir plus</string>
+    <string name="title_home">Home</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_reservations">Reservations</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_history">History</string>
+    <string name="nav_settings">Settings</string>
+    <string name="sort_date">Date</string>
+    <string name="sort_capacity">Capacity</string>
+    <string name="sort_price">Min Price</string>
+    <string name="button_pay">Pay</string>
+    <string name="mode_dark">Dark mode</string>
+    <string name="dark_enabled">Dark mode enabled</string>
+    <string name="dark_disabled">Dark mode disabled</string>
+    <string name="select_language">Select language</string>
+    <string name="supprimer">Delete</string>
+    <string name="book_now">Book Now</string>
+    <string name="cancel">Annuler</string>
+    <string name="confirm"><c>Confirmer</c></string>
+    <string name="empty_cart">Your cart is empty</string>
+    <string name="time">time</string>
+    <string name="price"><pr></pr></string>
+    <string name="confirm_reservation"><Conf>confirm reservation</Conf></string>
+    <string name="cancel_reservation">Cancel reservation</string>
+    <string name="spectacles_list_description">List of shows</string>
+    <string name="no_shows_found">No shows found</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="spectacle">Spectacle</string>
+    <string name="lieu">Place</string>
+    <string name="duree">Duration</string>
+    <string name="nb_spectateurs">Number of spectators</string>
+    <string name="voir_site">View website</string>
+    <string name="quantity">quantity</string>
+    <string name="total_price">Total price</string>
+    <string name="choose_language">Choose language</string>
+
+
+    <string-array name="billet_types">
+        <item>Gold</item>
+        <item>Silver</item>
+        <item>Normal</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Layali</string>
+    <string name="title_home">Acceuille</string>
+    <string name="title_cart">Panier</string>
+    <string name="title_reservations">Reservations</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_history">Historique</string>
+    <string name="search_shows">Rechercher des offres</string>
+    <string name="welcome_message">Bienvenue sur Layali</string>
+    <string name="voirPlus">voir plus</string>
+    <string name="nav_settings">Paramètres</string>
+    <string name="sort_date">Date</string>
+    <string name="sort_capacity">Capacité</string>
+    <string name="sort_price">Prix min</string>
+    <string name="button_pay">Payer</string>
+    <string name="mode_dark">Mode sombre</string>
+    <string name="dark_enabled">Mode sombre activé</string>
+    <string name="dark_disabled">Mode sombre désactivé</string>
+    <string name="select_language">Sélectionnez une langue</string>
+    <string name="supprimer">Supprimer</string>
+    <string name="book_now">Reserver maintenant</string>
+    <string name="cancel">Annuler</string>
+    <string name="confirm">Confirmer</string>
+    <string name="empty_cart">Votre panier est vide</string>
+    <string name="time">heure</string>
+    <string name="price">prix</string>
+    <string name="confirm_reservation">Confirmer la reservation</string>
+    <string name="cancel_reservation">Annuler la reservation</string>
+    <string name="spectacles_list_description">Liste des spectacles</string>
+    <string name="no_shows_found">Aucun spectacle trouvé</string>
+    <string name="add_to_cart">Ajouter au panier</string>
+    <string name="spectacle">Spectacle</string>
+    <string name="lieu">Lieu :</string>
+    <string name="duree">Durée :</string>
+    <string name="nb_spectateurs">Nombre de spectateurs :</string>
+    <string name="voir_site">Voir le site web</string>
+    <string name="quantity">Quantité</string>
+    <string name="total_price">Total</string>
+    <string name="choose_language">Choisissez votre langue</string>
+
+    <string-array name="billet_types">
+        <item>Or</item>
+        <item>Argent</item>
+        <item>Normal</item>
+    </string-array>
+
+
+</resources>

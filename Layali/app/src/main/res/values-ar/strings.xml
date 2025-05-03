@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ليالي</string>
+    <string name="search_shows">ابحث عن العروض</string>
+    <string name="welcome_message">مرحبا بيك في ليالي</string>
+    <string name="voirPlus" >المزيد</string>
+    <string name="title_home">الرئيسية</string>
+    <string name="title_cart">السلة</string>
+    <string name="title_reservations">الحجوزات</string>
+    <string name="title_profile">الملف الشخصي</string>
+    <string name="title_history">الأرشيف</string>
+    <string name="nav_settings">الإعدادات</string>
+    <string name="sort_date">التاريخ</string>
+    <string name="sort_capacity">الطاقة</string>
+    <string name="sort_price">أقل سعر</string>
+    <string name="button_pay">ادفع</string>
+    <string name="mode_dark">الوضع الداكن</string>
+    <string name="dark_enabled">تم تفعيل وضع الداكن</string>
+    <string name="dark_disabled">تم إلغاء وضع الداكن</string>
+    <string name="select_language">اختر اللغة</string>
+    <string name="supprimer">حذف</string>
+    <string name="book_now">حجز الان</string>
+    <string name="cancel">الغاء</string>
+    <string name="confirm"> تاكيد</string>
+    <string name="empty_cart"> سلة التسوق فارغة</string>
+    <string name="time"> الوقت</string>
+    <string name="price"> السعر</string>
+    <string name="confirm_reservation"> تأكيد الحجز</string>
+    <string name="cancel_reservation"> انهاء الحجز</string>
+    <string name="spectacles_list_description">قائمة العروض</string>
+    <string name="no_shows_found">لم يتم العثور على عروض</string>
+    <string name="add_to_cart">اضافة الى السلة</string>
+    <string name="spectacle"> العرض</string>
+    <string name="lieu"> الموقع</string>
+    <string name="duree"> المدة</string>
+    <string name="nb_spectateurs"> عدد المسلسلات</string>
+    <string name="voir_site"> العثور على الموقع</string>
+    <string name="quantity">الكمية</string>
+    <string name="total_price">السعر الكلي</string>
+    <string name="choose_language">اختر اللغة</string>
+
+
+
+    <string-array name="billet_types">
+        <item>ذهب  </item>
+        <item>فضي </item>
+        <item>عادي </item>
+    </string-array>
+
+</resources>
